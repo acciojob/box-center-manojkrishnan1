@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-.box1{
-	border-top-width: 2px;
+div.box1{
+	border-top-width: 2px solid black;
 }
 .box{
 	border: 2px solid black;
