@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+div{
+	border: 2px solid black;
+	display: inline-block;
+	padding: 100px;
+	color: purple;
+	background-color: lightblue;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	
+}
